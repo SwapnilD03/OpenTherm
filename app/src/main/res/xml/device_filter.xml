@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- OpenMV Cam (1209:ABD1) -->
+    <usb-device vendor-id="4617" product-id="43985" />
+    <!-- STM32 Virtual COM Port (0483:5740) -->
+    <usb-device vendor-id="1155" product-id="22336" />
+    <!-- New Device Detected (37C5:924A) -> 14277:37450 -->
+    <usb-device vendor-id="14277" product-id="37450" />
+</resources>
